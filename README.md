@@ -1,4 +1,4 @@
-### Hi there 👋, I am a Data Analyst Apprentice at Google and have a total of 6+ years of experience.
+### Hi there 👋! I am a Data Analyst Apprentice at Google and have a total of 6+ years of experience.
 
 With my strong analytical skills, proven experience in SQL and advanced Excel, and a passion for leveraging data to drive meaningful insights, I am confident I can significantly contribute to your team's success.
 For the past two years, I have honed my SQL proficiency while working at Google. I have designed and executed queries, cleansed and wrangled multiple datasets, and built data pipelines to support various business functions. My expertise in advanced Excel formulas and functions has enabled me to create dynamic reports, automate tedious tasks, and build financial models, adding immense value to my previous role.
@@ -13,9 +13,13 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 * [Sales Visualization of Multiple Items with TABLEAU](https://github.com/bhanumathyds/SalesVisualizationofMultipleItems/blob/main/Story%201.pdf)
 
+* [Loan-Prediction] (https://github.com/bhanumathyds/Loan-Prediction/blob/main/DecisionTree(LoanPrediction)Assignment.ipynb)
+
 * [Flipkart Data SentimentAnalysis with Python ](https://github.com/bhanumathyds/FlipkartDataSentimentAnalysis/blob/main/SentimentAnalysisonFlipkartdata.ipynb)
 
-* [Inventory Optimization using Historical Sales and Product Information](https://github.com/bhanumathyds/Inventory-Optimization-using-Historical-Sales-and-Inventory/blob/main/EcommerceWish-%20Inventory%26Sales.ipynb)
+* [Inventory Optimization using Historical Sales and Product Information](https://github.com/bhanumathyds/Inventory-Optimization-using-Historical-Sales-and-Inventory/blob/main/EcommerceWish-%20Inventory%26Sales.ipynb
+  
+* [Real Estate Case Study] (https://github.com/bhanumathyds/Real-Estate-Case-Study/blob/main/LinearRegression(Project).ipynb)
 
 
 <!--
