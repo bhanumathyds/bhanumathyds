@@ -7,10 +7,9 @@ However, my desire to explore and extend my data skills led me to delve into the
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## My Portfolio Projects
-* [HR-Analysis-Dashboard-Performance-and-Attrition with Power BI](https://github.com/bhanumathyds/HR-Analysis-Dashboard-Performance-and-Attrition-/blob/main/HR%20Performance%20Analyzer%20-%20using%20powerbi.pdf)![image](https://github.com/bhanumathyds/bhanumathyds/assets/135960752/6774a0f2-126a-4fa7-ae5c-90db554d2834)
+* [HR-Analysis-Dashboard-Performance-and-Attrition with Power BI](https://github.com/bhanumathyds/HR-Analysis-Dashboard-Performance-and-Attrition-/blob/main/HR%20Performance%20Analyzer%20-%20using%20powerbi.pdf)
   
-* [Hospital Data Visualization using POWER BI](https://github.com/bhanumathyds/HospitalDataVisualization/blob/main/hospital.pdf)![image](https://github.com/bhanumathyds/bhanumathyds/assets/135960752/0f8711d9-5416-4267-8258-16440a4baa82)
-
+* [Hospital Data Visualization using POWER BI](https://github.com/bhanumathyds/HospitalDataVisualization/blob/main/hospital.pdf)
 
 * [Sales Visualization of Multiple Items with TABLEAU](https://github.com/bhanumathyds/SalesVisualizationofMultipleItems/blob/main/Story%201.pdf)
 
