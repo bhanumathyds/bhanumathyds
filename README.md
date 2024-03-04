@@ -7,7 +7,10 @@ However, my desire to explore and extend my data skills led me to delve into the
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
 
 ## My Portfolio Projects
-*
+* [HR-Analysis-Dashboard-Performance-and-Attrition with Power BI](https://github.com/bhanumathyds/HR-Analysis-Dashboard-Performance-and-Attrition-/blob/main/HR%20Performance%20Analyzer%20-%20using%20powerbi.pdf)![image](https://github.com/bhanumathyds/bhanumathyds/assets/135960752/6774a0f2-126a-4fa7-ae5c-90db554d2834)
+  
+
+* 
 
 
 <!--
