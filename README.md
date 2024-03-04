@@ -13,13 +13,13 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 * [Sales Visualization of Multiple Items with TABLEAU](https://github.com/bhanumathyds/SalesVisualizationofMultipleItems/blob/main/Story%201.pdf)
 
-* [Loan-Prediction] (https://github.com/bhanumathyds/Loan-Prediction/blob/main/DecisionTree(LoanPrediction)Assignment.ipynb)
+* [Loan-Prediction](https://github.com/bhanumathyds/Loan-Prediction/blob/main/DecisionTree(LoanPrediction)Assignment.ipynb)
 
 * [Flipkart Data SentimentAnalysis with Python ](https://github.com/bhanumathyds/FlipkartDataSentimentAnalysis/blob/main/SentimentAnalysisonFlipkartdata.ipynb)
 
-* [Inventory Optimization using Historical Sales and Product Information](https://github.com/bhanumathyds/Inventory-Optimization-using-Historical-Sales-and-Inventory/blob/main/EcommerceWish-%20Inventory%26Sales.ipynb
+* [Inventory Optimization using Historical Sales and Product Information](https://github.com/bhanumathyds/Inventory-Optimization-using-Historical-Sales-and-Inventory/blob/main/EcommerceWish-%20Inventory%26Sales.ipynb)
   
-* [Real Estate Case Study] (https://github.com/bhanumathyds/Real-Estate-Case-Study/blob/main/LinearRegression(Project).ipynb)
+* [Real Estate Case Study](https://github.com/bhanumathyds/Real-Estate-Case-Study/blob/main/LinearRegression(Project).ipynb)
 
 
 <!--
