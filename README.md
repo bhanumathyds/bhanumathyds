@@ -9,8 +9,12 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## My Portfolio Projects
 * [HR-Analysis-Dashboard-Performance-and-Attrition with Power BI](https://github.com/bhanumathyds/HR-Analysis-Dashboard-Performance-and-Attrition-/blob/main/HR%20Performance%20Analyzer%20-%20using%20powerbi.pdf)![image](https://github.com/bhanumathyds/bhanumathyds/assets/135960752/6774a0f2-126a-4fa7-ae5c-90db554d2834)
   
+* [HospitalDataVisualization using POWER BI](https://github.com/bhanumathyds/HospitalDataVisualization/blob/main/hospital.pdf)![image](https://github.com/bhanumathyds/bhanumathyds/assets/135960752/0f8711d9-5416-4267-8258-16440a4baa82)
 
-* 
+
+* [SalesVisualizationofMultipleItems with TABLEAU](https://github.com/bhanumathyds/SalesVisualizationofMultipleItems/blob/main/Story%201.pdf)
+  
+*  
 
 
 <!--
