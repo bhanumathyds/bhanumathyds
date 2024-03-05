@@ -29,6 +29,8 @@ This repository serves to showcase my skills and as a platform to share my proje
   
 * [Real Estate Case Study](https://github.com/bhanumathyds/Real-Estate-Case-Study/blob/main/LinearRegression(Project).ipynb)
 
+* [Recommender System with SVD ](
+
 
 <!--
 **bhanumathyds/bhanumathyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
