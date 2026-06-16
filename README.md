@@ -14,7 +14,7 @@ This repository is my open workbench — a place to share what I'm building, tra
 
 
 ## My Portfolio Projects
-* [HR Attrition Analysis with Tableau]([https://github.com/bhanumathyds/HR-data-analysis-using-Tableau](https://github.com/bhanumathyds/HR-data-analysis-using-Tableau/blob/main/HRAnalyticDashboard.pdf)
+* [HR Attrition Analysis with Tableau](https://github.com/bhanumathyds/HR-data-analysis-using-Tableau/blob/main/HRAnalyticDashboard.pdf)
 
 * [HR-Analysis-Dashboard-Performance-and-Attrition with Power BI](https://github.com/bhanumathyds/HR-Analysis-Dashboard-Performance-and-Attrition-/blob/main/HR%20Performance%20Analyzer%20-%20using%20powerbi.pdf)
   
